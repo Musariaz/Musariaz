@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Musa Riaz
-Full Stack Developer with 2+ years of experience. Familiar with C++, HTML, CSS, JavaScript. Continuously striving to assume ownership of the project and exceed anticipated delivery timelines.
+ Familiar with C++, HTML, CSS, JavaScript. Continuously striving to assume ownership of the project and exceed anticipated delivery timelines.
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
